@@ -1,23 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import DrawerCon from "./components/DrawerCon";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="drawer">
+      <DrawerCon/>
+      <div className="drawer-top"></div>
+      <div className="drawer-front">
+        <div className="label">Darshan's Files</div>
+      </div>
     </div>
   );
 }
