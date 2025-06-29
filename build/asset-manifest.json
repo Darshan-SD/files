@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ecd2d22.css",
-    "main.js": "/static/js/main.93da2af8.js",
+    "main.css": "/static/css/main.706e1f7a.css",
+    "main.js": "/static/js/main.ed085b4f.js",
     "static/js/453.ebed09d4.chunk.js": "/static/js/453.ebed09d4.chunk.js",
+    "static/media/vinlandsaga.gif": "/static/media/vinlandsaga.bfe215792e3efaed9091.gif",
+    "static/media/aot.gif": "/static/media/aot.b05feaeadd637cb4a76f.gif",
+    "static/media/drstone.gif": "/static/media/drstone.29762251f725d707456f.gif",
+    "static/media/dragonball.gif": "/static/media/dragonball.a7cef4486ab4dbd801c3.gif",
+    "static/media/greenday.png": "/static/media/greenday.3b40c1275281d9840308.png",
+    "static/media/arijitsingh.jpg": "/static/media/arijitsingh.3d36a5b333100ec83e42.jpg",
+    "static/media/neffex.jpg": "/static/media/neffex.eefd002c894203116291.jpg",
+    "static/media/reactjs.png": "/static/media/reactjs.f3cb52086bdda16b6ddb.png",
+    "static/media/camera.png": "/static/media/camera.275436f20917141b20b3.png",
+    "static/media/guitar.png": "/static/media/guitar.51bd0916544ff9e81cc4.png",
     "index.html": "/index.html",
-    "main.9ecd2d22.css.map": "/static/css/main.9ecd2d22.css.map",
-    "main.93da2af8.js.map": "/static/js/main.93da2af8.js.map",
+    "main.706e1f7a.css.map": "/static/css/main.706e1f7a.css.map",
+    "main.ed085b4f.js.map": "/static/js/main.ed085b4f.js.map",
     "453.ebed09d4.chunk.js.map": "/static/js/453.ebed09d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ecd2d22.css",
-    "static/js/main.93da2af8.js"
+    "static/css/main.706e1f7a.css",
+    "static/js/main.ed085b4f.js"
   ]
 }
